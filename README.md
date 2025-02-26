@@ -1,5 +1,5 @@
 # MockupPortfolioSite
-Straightforward HTML-CSS-JS portfolio site. Check it out here: ntgmockupportfolio.netlify.app
+Straightforward HTML-CSS-JS portfolio site. Check it out [here](ntgmockupportfolio.netlify.app)
 
 ## Features
 - Navigation Bar
