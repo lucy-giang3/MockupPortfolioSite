@@ -8,5 +8,5 @@ Straightforward HTML-CSS-JS portfolio site. Check it out here: ntgmockupportfoli
 - Contact Form: makes use of HTTP requests
 
 ## Screenshots
-![Mockup Portfolio](./exampleportfolio1.PNG)
+![Mockup Portfolio](./exampleportfolio.PNG)
 ![Mockup Portfolio](./exampleportfolio2.PNG)
